@@ -16,7 +16,7 @@ getwd()
 ![US.Presidents](./figs/Presidents.jpg) \n  
 ---
 <font size=3>
-The inauguration speech is one of the most important speeches for U.S. Presidents. In this project, we applied texting mining techniques to explore what they said during their inauguration speech, what strategies they adopted, and what kind of emotion they intended to convey in Intriguingly, we identified a significant trend on their speaking strategy and interesting clusters of their topics, particularly in edcuation.   
+The inauguration speech is one of the most important speeches for U.S. Presidents. In this project, I applied texting mining techniques to explore what they said during their inauguration speech, what strategies they adopted, and what kind of emotion they intended to convey in Intriguingly, we identified a significant trend on their speaking strategy and interesting clusters of their topics, particularly in edcuation.   
 
 
 ```{r,warning=FALSE,error=FALSE,echo=FALSE}
